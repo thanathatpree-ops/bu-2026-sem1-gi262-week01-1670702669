@@ -368,7 +368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Workshop
   isSixOClock: 0
-  password: 
+  password: Moon
   as03Number: 0
   as04Number: 0
   as05GuessingNumber: 0
